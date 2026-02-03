@@ -1,0 +1,21 @@
+﻿public
+src
+.gitignore
+Astra College union logo.jpg
+College Name and Logo.jpg
+eslint.config.mjs
+Kalastra Arts Fest Logo.jpg
+Kalastra logo hindi.jpg
+Kalastra Poster.jpg
+next-env.d.ts
+next.config.ts
+output.txt
+output_list.txt
+output_names.txt
+output_names_utf8.txt
+output_utf8.txt
+package.json
+postcss.config.mjs
+README.md
+Team stats.jpg
+tsconfig.json
